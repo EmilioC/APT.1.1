@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.emiliocordoba.apt11.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:id="@+id/content_main">
+
+    <Button
+        android:id="@+id/btnComportamiento"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="40dp"
+        android:layout_weight="1"
+        android:text="@string/buttonComportamiento" />
+
+    <Button
+        android:id="@+id/btnCondicion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_margin="40dp"
+        android:text="@string/buttonCondicion"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnRefuerzoPositivo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_margin="40dp"
+        android:text="@string/buttonRefuerzoPositivo"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

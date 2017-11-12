@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">APT.1.1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="buttonComportamiento">Comportamiento</string>
+    <string name="buttonCondicion">Condición</string>
+    <string name="buttonRefuerzoPositivo">Refuerzo Positivo</string>
+
+    <string name="CheckBox1">Salpicadura/Espray </string>
+    <string name="CheckBox2"> Ser golpeado por algo</string>
+    <string name="CheckBox3"> Peligro de quemadura</string>
+    <string name="CheckBox4"> Exposición a producto químico</string>
+    <string name="CheckBox5"> Peligro en la conducción</string>
+    <string name="CheckBox6"> Peligro Electrico</string>
+    <string name="CheckBox7"> Medio Ambiente</string>
+    <string name="CheckBox8"> Equipos/Herramientas - Condición</string>
+    <string name="CheckBox9"> Equipos/Herramientas - Utilización</string>
+    <string name="CheckBox10"> Caída desde altura/Elevación </string>
+    <string name="CheckBox11"> Peligro de Incendio/Fuego</string>
+    <string name="CheckBox12"> Orden y Limpieza</string>
+    <string name="CheckBox13"> Etiquetas/Señalización</string>
+    <string name="CheckBox14"> Peligro de Corte/Laceración</string>
+    <string name="CheckBox15"> Fuga/Derrame de Material</string>
+    <string name="CheckBox16"> Nivel de Ruido</string>
+    <string name="CheckBox17"> Sobreesfuerzo/Ergonomía</string>
+    <string name="CheckBox18"> Atención a la tarea</string>
+    <string name="CheckBox19"> Fatiga/Cansancio</string>
+    <string name="CheckBox20"> EPIs - Ojos</string>
+    <string name="CheckBox21"> EPIs - Manos </string>
+    <string name="CheckBox22"> EPIs - Oídos</string>
+    <string name="CheckBox23"> EPIs - Otros</string>
+    <string name="CheckBox24"> Atrapamientos</string>
+    <string name="CheckBox25"> Mal uso productos</string>
+    <string name="CheckBox26"> Security</string>
+    <string name="CheckBox27"> Resbalar/Tropezar o Caer </string>
+    <string name="CheckBox28"> Mirando por dónde pasa</string>
+    <string name="CheckBox29"> Incumple otras normas/procedimentos</string>
+
+    <string name="APT"> Prácticas y condiciones que no cumplen la norma.\n\n
+    Cuando se identifica una situación, condición, o acción insegura, la cual puede
+    solucionarse y hacerse segura inmediatamente por parte del observado. \n\n
+    </string>
+
+    <string name="LinkAPTdocument">Más información:enlace  </string>
+    <string name="Comportamiento">Aquello que realizan las personas o decisiones que toman
+    las personas. Normalmente se describe mediante un verbo y ocurre en un corto periodo de tiempo.</string>
+    <string name="RefuerzoPositivo">Ante un proceso de trabajo que se observa que todos los empleados han tomado
+    las acciones específicas y pertinentes para realizar la tarea, con precauciones de seguridad
+    oportunas, y tú realizas un contacto de seguridad personal, para reforzar la conducta</string>
+
+    <string name="Condicion">Aquello que ocurre a un estado material
+    o existente, condiciones que normalmente involucran "cosas" u objetos
+    y normalmente persisten durante un largo periodo de tiempo</string>
+
+    <string name="Categorias">
+
+
+Siendo salpicado/Rociado \n\n
+	Situación en la que usted puede ser impregnado por materiales líquidos.\n\n
+
+Ser alcanzado/golpeado por algo.\n\n
+	Situación en la que usted está en riesgo de ser golpeado por un objeto.\n\n
+Peligro de Quemadura\n\n	Situaciones que podrían resultar en una quemadura química o térmica.\n\n
+Exposición Química\n\n
+Situaciones que podrían resultar con enfermedad o lesión debido a lo inhalado o en contacto con materiales nocivos.\n\n
+Peligro Conducción\n\n
+Comportamientos y condiciones resultantes de operaciones de cualquier equipo motorizado.\n\n
+Eléctricos\n\n
+	Situaciones que implican fuentes de energía eléctrica.\n\n
+Ambiental\n\n
+	Situaciones sobre cumplimiento de las normas ambientales\n\n
+Equipos / Estado del equipo o herramienta.\n\n
+	Cuando las condiciones del equipo mecánico o instrumento podría llevar a un accidente o incidente.\n\n
+Utilización del Equipo\n\n
+	Esta categoría es casi siempre un comportamiento.
+Uso de equipos o herramientas de una manera que crea un riesgo de lesiones.\n\n
+Riesgo de Incendios\n\n	Situaciones que podrían provocar un incendio.\n\n
+	Basura, desorden.\n\n Adecuado almacenamiento de los materiales que crean peligros.\n\n
+Peligro de laceraciones\n\n
+	Una situación que puede llevar a un corte, lastimarse, golpes, magullar, herir.\n\n
+Caída de elevación.\n\n
+	Una situación que podría llevar a una caída desde una zona elevada o de un nivel a
+        otro nivel inferior. Resbalones, tropiezos, ocuparse de las situaciones que pueden causar caídas del nivel.\n\n
+Etiquetas y señalización	Situaciones en las que los contenedores no están debidamente etiquetados. Situaciones
+        en que la zona de seguridad o el medio ambiente las señales no están presentes o no legible.\n\nOtras situaciones de riesgo\n\n
+Inespecíficos - Ergonómico	\n\nSituaciones que pueden causar lesión o dolor inmediato o con posterioridad, muscular / esquelético.\n\n
+Prestar atención a la tarea o trabajos\n\n	Esta categoría es casi siempre un comportamiento.\n\n
+EPIs\n\n
+	Situaciones que se traducen en deficiencias en los Equipos de Protección Individual en:\n\n
+Otros.\n\n
+Puntos de posible pinzamiento/Pellizco\n\nSituaciones que crean peligro por un "atrapado entre" o el acto de la creación de un punto de pellizco.\n\n
+Incumplimiento de procedimientos y otras normas	Violación de normas en la descripción.\n\n
+        Procedimiento específico.\n\n
+Situaciones que son fracasos de las medidas de seguridad.\n\n
+Resbalones, tropiezos o caídas al mismo nivel.\n\n
+Situaciones que pueden causar resbalones, tropiezos o caídas al mismo nivel.\n\n
+Mirar por dónde vas. Esta categoría es casi siempre un comportamiento\n\n
+
+Ejemplos: Paseos sin tener en cuenta su trayectoria de viaje, el rastreo de una línea sin tener en cuenta dónde se va caminando.
+
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_condicion">Activity_condicion</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="MANUALES">
+            <menu>
+                <item
+                    android:id="@+id/nav_guiaapp"
+                    android:actionLayout="@color/colorAccent"
+                    android:icon="@drawable/ic_live_help_black_24dp"
+                    android:title="GUÍA APP" />
+                <item
+                    android:id="@+id/nav_manualusuario"
+                    android:icon="@drawable/ic_live_help_black_24dp"
+                    android:title="MANUAL USUARIO" />
+            </menu>
+        </item>
+
+    </group>
+r
+
+
+    <item android:title="INFORMACIÓN SOBRE APT">
+        <menu>
+            <item
+                android:id="@+id/nav_apt"
+
+                android:title="APT" />
+            <item
+                android:id="@+id/nav_comportamiento"
+
+                android:title="Comportamiento"
+                />
+            <item
+                android:id="@+id/nav_condicion"
+
+                android:title="Condición" />
+            <item
+                android:id="@+id/nav_refuerzopositivo"
+
+                android:title="Refuerzo positivo" />
+            <item
+                android:id="@+id/nav_categoria"
+
+                android:title="Categoría" />
+        </menu>
+    </item>
+
+</menu>
